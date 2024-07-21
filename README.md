@@ -1,3 +1,22 @@
+# Clone Spotify
+- **preview**
+  
+ Principal
+
+  ![preview img](/preview/home.png)
+  
+  Favorito 
+
+  ![preview img](/preview/favorite.png)
+ 
+ Buscador
+
+  ![preview img](/preview/search.png)
+
+
+
+
+
 # SpotifyTwo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
